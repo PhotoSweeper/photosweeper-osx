@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://get-software-osx.github.io/.github/photosweepermac">  
+<a href="https://instal-apps-osx.github.io/.github/phoytosweepermac">  
 <img src="https://img.shields.io/badge/Get_PhotoSweeper_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get PhotoSweeper for macOS">  
 </a>  
 </div>  
